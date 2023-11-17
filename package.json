@@ -1,0 +1,25 @@
+{
+  "name": "plancalendar_backend",
+  "version": "1.0.0",
+  "description": "캘린더 node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aybbbb/PlanCalendar_Backend.git"
+  },
+  "author": "kay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aybbbb/PlanCalendar_Backend/issues"
+  },
+  "homepage": "https://github.com/aybbbb/PlanCalendar_Backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
